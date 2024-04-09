@@ -33,7 +33,6 @@
 ## No Microsoft Teams  👥
 
 - Não há necessidade fazer o upload do projeto 
-- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
 - Enviar o Link da URL do seu repositório
 
 ## Regras 📄
