@@ -1,0 +1,6 @@
+Nome Completo: Vitor Matheus Ferreira Vianna;
+RA: 2920482221022;
+Idade: 25;
+Seu @gitHub: https://github.com/nexola/;
+Seu @LinkedIn: https://www.linkedin.com/in/vitor-vianna-a53075215/;
+Curso e Turma: 4º ADS;
